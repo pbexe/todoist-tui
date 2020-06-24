@@ -6,6 +6,9 @@ authors = ["Miles Budden <contact@milesbudden.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+picotui = "^1.0.1"
+requests = "^2.24.0"
+todoist-python = "^8.1.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
